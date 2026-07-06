@@ -20,7 +20,11 @@
 
 ###  About Me
 
-I'm a second year computer science student passionate about building efficient software solutions, solving logic-based problems. I am always eager to learn new frameworks, collaborate with fellow developers, and explore new opportunities.
+### About Me
+ I am a second-year Computer Science student passionate about building efficient software solutions.
+- **Solving logic-based problems and learning new frameworks.
+- **Collaborative, eager to grow, and always exploring new opportunities.
+
 ---
 
 ###  Tech Stack
