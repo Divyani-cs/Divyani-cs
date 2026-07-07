@@ -20,7 +20,6 @@
 
 ###  About Me
 
-### About Me
  I am a second-year Computer Science student passionate about building efficient software solutions.
 - Solving logic-based problems and learning new frameworks.
 - Collaborative, eager to grow, and always exploring new opportunities.
