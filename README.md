@@ -10,7 +10,7 @@
 
 ###  Overview
 
--    *Currently:** BCA 2rd year, Amrapali University, Haldwani
+-    *Currently:** BCA 2nd year, Amrapali University, Haldwani
 -    *Experience:** Python Intern @Codsoft
 -    *Skills:** Python · HTML · CSS · JavaScript · PHP · Git & GitHub
 -    *Based in:** Haldwani, Uttarakhand
