@@ -11,7 +11,7 @@
 
 ### ⚡ Quick Facts
 - 🎓 **Currently:** BCA 2nd year, Amrapali University, Haldwani
-- 💼 **Experience:** Python Intern @ Codsoft
+- 💼 **Experience:** Python Intern @ Codsoft, Data Analyst intern at @Codec technologies India
 - 🛠️ **Core stack:** Python · HTML · CSS · JavaScript · PHP · Git & GitHub
 - 📍 **Based in:** Haldwani, Uttarakhand
 - 📚 **Currently learning:** Web Development & Artificial Intelligence
