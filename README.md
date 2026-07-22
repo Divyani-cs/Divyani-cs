@@ -5,7 +5,7 @@
   <a href="https://resume-sepia-mu.vercel.app/"><img src="https://img.shields.io/badge/Resume-View-FF69B4?style=flat-square" alt="Resume"/></a>
   <a href="https://www.linkedin.com/in/divyani-1138212b1/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:divyani0061@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
-   <a href="https://github.com/Unishkabisht" target="_blank">
+   <a href="https://https://github.com/Divyani-cs" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
